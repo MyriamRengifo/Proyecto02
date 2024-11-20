@@ -1,4 +1,4 @@
-<h1 align="center"> EDA SOBRE COMPORTAMIENTO DEL INTERNET EN ARGENTINA DE 2014 A 2024 </h1>
+<h1 align="center"> EDA SOBRE EL COMPORTAMIENTO DEL INTERNET EN ARGENTINA DURANTE 2014 A 2024 </h1>
 
 <img width="1000" aling="center" alt="Captura de pantalla 2024-11-19 a la(s) 8 42 07 p  m" src="https://github.com/user-attachments/assets/65f75c84-1a49-4e06-b138-ecaa2abf7dba">
 
